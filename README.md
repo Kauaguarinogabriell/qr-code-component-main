@@ -10,3 +10,5 @@ Thanks for checking out this front-end coding challenge.
 
 Picture projetc
 ![qrcodecomponent](https://github.com/Kauaguarinogabriell/qr-code-component-main/assets/111528352/385276b3-6361-4d29-9306-19138def4daf)
+
+pagina online: https://kauaguarinogabriell.github.io/qr-code-component-main/
